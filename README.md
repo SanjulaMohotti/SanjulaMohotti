@@ -1,71 +1,72 @@
-<!-- Profile Header -->
-<h1 align="center">
-  Hi 👋, I'm Sanjula
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<!-- Animated Header with Gradient -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+[Your+Name];UI%2FUX+%7C+Frontend+%7C+Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  💻 Frontend Developer | 🎨 UI/UX Enthusiast | 📍 Sri Lanka
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
+
+<!-- Profile Overview -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## 🚀 About Me
+
+<p align="justify">
+  Passionate <strong>Frontend Developer</strong> with <strong>UI/UX</strong> expertise and <strong>Full-Stack</strong> capabilities. I create beautiful, responsive, and user-friendly web applications with clean code and modern technologies. My goal is to build products that provide pixel-perfect, performant experiences.
 </p>
 
----
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
 
-### 🧑‍💻 About Me
+### 👨‍💻 Languages & Frameworks
 
-- 🎓 I’m a Software Engineering undergraduate at **SLIIT**
-- 💼 Seeking internships or job opportunities in **Frontend / UI-UX**
-- 💡 Passionate about clean design and responsive web interfaces
-- ⚡ Fun fact: I design faster than I code — but I do both 😄
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java" alt="languages and frameworks" />
+</div>
 
----
+### 🎨 Design & Styling
 
-### 🔧 Technologies & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,tailwind,scss,materialui,bootstrap,styledcomponents" alt="design tools" />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+### 🛠️ Tools & Platforms
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,docker,aws,firebase,vercel,netlify,postman" alt="tools and platforms" />
+</div>
 
-### 📊 GitHub Stats
+<!-- GitHub Stats with Animation -->
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" width="40%"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjulaMohotti&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjulaMohotti&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjulaMohotti&theme=radical" alt="GitHub streak" />
+</div>
 
-### 🎯 My Design Philosophy
 
-> **Minimal. Responsive. Accessible. Beautiful.**  
-> I believe good design isn’t just how it looks, but how it works.
+<!-- Contact Section -->
+## 📬 Get In Touch
 
----
-
-### 🔗 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="www.linkedin.com/in/sanjula-mohotti-96a516339" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:sanjulakalpani1212@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://your-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FE4A49?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <a href="[https://YOUR_PORTFOLIO.com](https://sanjulamohotti.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
-</p>
+</div>
 
----
-
-### 🔥 Fun Animation
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Frontend+Developer;Lover+of+Design+%26+User+Experience;Creating+Clean+UIs+Since+Day+1" alt="Typing SVG" />
-</p>
