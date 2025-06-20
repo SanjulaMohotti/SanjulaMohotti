@@ -1,6 +1,6 @@
 <!-- Animated Header with Gradient -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sanjula;UI/UX+%7C+Frontend+%7C+Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sanjula;UI%2FUX+%7C+Frontend+%7C+Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <!-- Animated Divider -->
@@ -50,9 +50,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjulaMohotti&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjulaMohotti&theme=radical" alt="GitHub streak" />
-</div>
 
 
 <!-- Contact Section -->
@@ -65,7 +62,7 @@
   <a href="mailto:sanjulakalpani1212@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="[https://YOUR_PORTFOLIO.com](https://sanjulamohotti.vercel.app/)" target="_blank">
+  <a href="https://sanjulamohotti.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
 </div>
