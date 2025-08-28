@@ -134,16 +134,7 @@ const sanjula = {
 
 ---
 
-## 🏆 Community Involvement
 
-<div align="center">
-  
-### 🦁 LEO Club - SLIIT
-**Active Member** | Supporting community service, tech events, and leadership initiatives
-
-</div>
-
----
 
 ---
 
