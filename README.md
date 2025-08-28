@@ -1,62 +1,216 @@
-<!-- Header Typing Animation -->
+# 💫 Hi there! I'm Sanjula Mohotti
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=700&lines=Hi+I'm+Sanjula+%F0%9F%91%8B;Frontend+Developer+⚡;Backend+Developer+⚙️;Full-Stack+Developer+🚀;Mobile+App+Developer+📱" alt="Typing SVG" />
-</div>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate+%E2%9C%A8;Frontend+Developer+%F0%9F%8E%A8;Backend+Developer+%E2%9A%99%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%92%8E)](https://git.io/typing-svg)
 
-<!-- Developer Girl Illustration -->
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2113992/screenshots/14076546/media/6b1997d0c6d4ea1b95a3d5f602bc5f3e.gif" width="350" alt="Girl Developer Animation">
-</div>
+**🎓 BSc (Hons) IT - Software Engineering @ SLIIT | GPA: 3.6/4.0**
 
----
-
-## 👩‍💻 About Me  
-✨ I’m a passionate **Software Engineer (Undergraduate)** and a dedicated **UI/UX enthusiast**.  
-🌸 As a **female developer**, I aim to design & build **modern, scalable, and user-friendly applications**.  
-💡 My focus is on creating **pixel-perfect** interfaces and **robust full-stack solutions**.  
-
-🔎 **Currently Seeking Roles As:**  
-- 🎨 **Frontend Developer**  
-- ⚙️ **Backend Developer**  
-- 🚀 **Full-Stack Developer**  
-- 📱 **Mobile App Developer**
-
----
-
-## 🛠️ Tech Stack  
-
-### 👩‍💻 Languages & Frameworks  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,kotlin,flutter" />
-</div>
-
-### 🎨 Design & Styling  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,tailwind,scss,materialui,bootstrap,styledcomponents" />
-</div>
-
-### ⚙️ Tools & Platforms  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,firebase,postman,androidstudio" />
 </div>
 
 ---
 
-## 📊 GitHub Highlights  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjulaMohotti&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjulaMohotti&layout=compact&langs_count=8&theme=rose_pine" alt="Top languages" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="Woman Developer Coding">
+</div>
+
+<div align="center">
+  
+### 🌟 Passionate Software Engineer & Full-Stack Developer
+*Building scalable web and mobile applications with exceptional user experiences*
+
+📍 **Sri Lanka** • 📧 **sanjulakalpani1212@gmail.com** • 📱 **+94 76 298 6514**
+
 </div>
 
 ---
 
-## 📬 Let’s Connect  
+## 🎯 Currently Seeking Opportunities In
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/sanjula-mohotti-96a516339" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sanjulakalpani1212@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sanjulamohotti.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=
+  
+| 🎨 Frontend Developer | ⚙️ Backend Developer | 🚀 Full-Stack Developer | 💻 Software Engineer |
+|:---------------------:|:--------------------:|:-----------------------:|:--------------------:|
+| React • JavaScript • HTML • CSS | Node.js | MERN Stack Solutions | OOP Concepts |
+| Responsive UI/UX | API Development | End-to-End Systems | Clean Code & Architecture |
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+```javascript
+const sanjula = {
+    education: "BSc (Hons) IT - Software Engineering @ SLIIT",
+    gpa: "3.6/4.0",
+    experience: "Full-Stack Development, UI/UX Design, Mobile Development",
+    passion: ["Web Development", "Mobile Apps", "User Experience", "Clean Code"],
+    philosophy: "Building user-friendly applications that make a difference",
+    currentFocus: "Seeking opportunities in Frontend, Backend, Full-Stack & Software Engineering",
+    strengths: ["Adaptable", "Collaborative", "Fast Learner", "Problem Solver"]
+};
+```
+
+
+---
+
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=SanjulaMohotti&show_icons=true&theme=gradient&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=C9D1D9" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjulaMohotti&layout=compact&theme=gradient&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 Education & Achievements
+
+<div align="center">
+
+### 🏛️ **Sri Lanka Institute of Information Technology (SLIIT)**
+**BSc (Hons) in Information Technology - Software Engineering** | 2023 - Present  
+**GPA: 3.6/4.0** ⭐
+
+### 📜 **ESOFT Metro Campus**
+**Diploma in Information Technology** | 2023 - 2024  
+**NVQ Level 3** 🎯
+
+### 🎯 **G.C.E. Advanced Level**
+**Physical Science Stream** | 2021 📚
+
+</div>
+
+---
+
+## 🌟 Core Competencies
+
+<div align="center">
+
+### 💻 Technical Skills
+**Object-Oriented Programming** • **MVC/MVVM Architecture** • **UI/UX Design**  
+**Full-Stack Development** • **Mobile App Development** • **Database Design**
+
+### 🤝 Soft Skills
+**Leadership** • **Teamwork** • **Problem Solving** • **Communication**  
+**Creativity** • **Adaptability** • **Time Management** • **Public Speaking**
+
+</div>
+
+---
+
+## 🏆 Community Involvement
+
+<div align="center">
+  
+### 🦁 LEO Club - SLIIT
+**Active Member** | Supporting community service, tech events, and leadership initiatives
+
+</div>
+
+---
+
+---
+
+## 🌈 What I'm Currently Working On
+
+<div align="center">
+  
+
+
+### 🔥 **Active Projects:**
+
+**💧 Water Tracking Usage App**  
+*React Native + Node.js + Firebase*  
+Building a comprehensive water consumption tracker with real-time sync and analytics
+
+**🛋️ Pristine Sofa Cleaning Company System**  
+*TypeScript + React Native/Web*  
+Client-based management system for professional cleaning services
+
+**📱 Mobile App Development Specialization**  
+*React Native + Node.js + Firebase Stack*  
+Focusing on cross-platform mobile solutions with robust backend integration
+
+</div>
+
+---
+
+## 💼 Professional Interests
+
+- 🎨 **Frontend Development**: Creating engaging, responsive user interfaces
+- ⚙️ **Backend Systems**: Building robust, scalable server-side applications  
+- 🚀 **Full-Stack Solutions**: End-to-end application development
+- 💻 **Software Engineering**: Designing clean, maintainable code architectures
+- 📱 **Mobile Development**: Cross-platform mobile application development
+- 🎯 **UI/UX Design**: User-centered design and seamless user experiences
+
+---
+
+## 📬 Let's Connect & Collaborate!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjula-mohotti-96a516339)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjulakalpani1212@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=react&logoColor=white)](https://sanjulamohotti.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjulaMohotti)
+
+**📱 Phone:** +94 76 298 6514 | **🌐 Languages:** English, Sinhala
+
+</div>
+
+---
+
