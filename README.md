@@ -116,24 +116,7 @@ const sanjula = {
 
 ---
 
-## 🎓 Education & Achievements
 
-<div align="center">
-
-### 🏛️ **Sri Lanka Institute of Information Technology (SLIIT)**
-**BSc (Hons) in Information Technology - Software Engineering** | 2023 - Present  
-**GPA: 3.6/4.0** ⭐
-
-### 📜 **ESOFT Metro Campus**
-**Diploma in Information Technology** | 2023 - 2024  
-**NVQ Level 3** 🎯
-
-### 🎯 **G.C.E. Advanced Level**
-**Physical Science Stream** | 2021 📚
-
-</div>
-
----
 
 ## 🌟 Core Competencies
 
@@ -186,16 +169,6 @@ Focusing on cross-platform mobile solutions with robust backend integration
 
 </div>
 
----
-
-## 💼 Professional Interests
-
-- 🎨 **Frontend Development**: Creating engaging, responsive user interfaces
-- ⚙️ **Backend Systems**: Building robust, scalable server-side applications  
-- 🚀 **Full-Stack Solutions**: End-to-end application development
-- 💻 **Software Engineering**: Designing clean, maintainable code architectures
-- 📱 **Mobile Development**: Cross-platform mobile application development
-- 🎯 **UI/UX Design**: User-centered design and seamless user experiences
 
 ---
 
