@@ -1,69 +1,62 @@
-<!-- Animated Header with Gradient -->
+<!-- Header Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sanjula;UI%2FUX+%7C+Frontend+%7C+Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=700&lines=Hi+I'm+Sanjula+%F0%9F%91%8B;Frontend+Developer+⚡;Backend+Developer+⚙️;Full-Stack+Developer+🚀;Mobile+App+Developer+📱" alt="Typing SVG" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
-
-<!-- Profile Overview -->
+<!-- Developer Girl Illustration -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://cdn.dribbble.com/users/2113992/screenshots/14076546/media/6b1997d0c6d4ea1b95a3d5f602bc5f3e.gif" width="350" alt="Girl Developer Animation">
 </div>
 
-## 🚀 About Me
+---
 
-<p align="justify">
-  Passionate <strong>Frontend Developer</strong> with <strong>UI/UX</strong> expertise and <strong>Full-Stack</strong> capabilities. I create beautiful, responsive, and user-friendly web applications with clean code and modern technologies. My goal is to build products that provide pixel-perfect, performant experiences.
-</p>
+## 👩‍💻 About Me  
+✨ I’m a passionate **Software Engineer (Undergraduate)** and a dedicated **UI/UX enthusiast**.  
+🌸 As a **female developer**, I aim to design & build **modern, scalable, and user-friendly applications**.  
+💡 My focus is on creating **pixel-perfect** interfaces and **robust full-stack solutions**.  
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+🔎 **Currently Seeking Roles As:**  
+- 🎨 **Frontend Developer**  
+- ⚙️ **Backend Developer**  
+- 🚀 **Full-Stack Developer**  
+- 📱 **Mobile App Developer**
 
-### 👨‍💻 Languages & Frameworks
+---
 
+## 🛠️ Tech Stack  
+
+### 👩‍💻 Languages & Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java" alt="languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,kotlin,flutter" />
 </div>
 
-### 🎨 Design & Styling
-
+### 🎨 Design & Styling  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,tailwind,scss,materialui,bootstrap,styledcomponents" alt="design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,tailwind,scss,materialui,bootstrap,styledcomponents" />
 </div>
 
-### 🛠️ Tools & Platforms
-
+### ⚙️ Tools & Platforms  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,adobephotoshop,canva,figma,postman" alt="tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,firebase,postman,androidstudio" />
 </div>
 
-<!-- GitHub Stats with Animation -->
-## 📊 GitHub Stats
+---
 
+## 📊 GitHub Highlights  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjulaMohotti&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjulaMohotti&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjulaMohotti&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjulaMohotti&layout=compact&langs_count=8&theme=rose_pine" alt="Top languages" />
 </div>
 
+---
 
-
-<!-- Contact Section -->
-## 📬 Get In Touch
-
+## 📬 Let’s Connect  
 <div align="center">
-  <a href="www.linkedin.com/in/sanjula-mohotti-96a516339" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sanjula-mohotti-96a516339" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sanjulakalpani1212@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sanjulamohotti.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
-  </a>
-</div>
-
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=
